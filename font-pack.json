@@ -5,25 +5,25 @@
       "postScriptName": "SFProText-Regular",
       "weight": 400,
       "style": "normal",
-      "spec": 0
+      "spec": "regular"
     },
     {
       "postScriptName": "SFProText-Bold",
       "weight": 700,
       "style": "normal",
-      "spec": 1
+      "spec": "bold"
     },
     {
       "postScriptName": "SFProDisplay-Regular",
       "weight": 400,
       "style": "normal",
-      "spec": 2
+      "spec": "display-regular"
     },
     {
       "postScriptName": "SFProDisplay-Bold",
       "weight": 700,
       "style": "normal",
-      "spec": 3
+      "spec": "display-bold"
     }
   ]
 }
