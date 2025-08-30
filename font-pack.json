@@ -1,0 +1,9 @@
+{
+  "fontName": "SF Pro",
+  "entries": [
+    { "postScriptName": "SFProText-Regular" },
+    { "postScriptName": "SFProText-Bold" },
+    { "postScriptName": "SFProDisplay-Regular" },
+    { "postScriptName": "SFProDisplay-Bold" }
+  ]
+}
