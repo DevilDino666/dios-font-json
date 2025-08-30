@@ -1,9 +1,29 @@
 {
   "fontName": "SF Pro",
   "entries": [
-    { "postScriptName": "SFProText-Regular" },
-    { "postScriptName": "SFProText-Bold" },
-    { "postScriptName": "SFProDisplay-Regular" },
-    { "postScriptName": "SFProDisplay-Bold" }
+    {
+      "postScriptName": "SFProText-Regular",
+      "weight": 400,
+      "style": "normal",
+      "spec": 0
+    },
+    {
+      "postScriptName": "SFProText-Bold",
+      "weight": 700,
+      "style": "normal",
+      "spec": 1
+    },
+    {
+      "postScriptName": "SFProDisplay-Regular",
+      "weight": 400,
+      "style": "normal",
+      "spec": 2
+    },
+    {
+      "postScriptName": "SFProDisplay-Bold",
+      "weight": 700,
+      "style": "normal",
+      "spec": 3
+    }
   ]
 }
